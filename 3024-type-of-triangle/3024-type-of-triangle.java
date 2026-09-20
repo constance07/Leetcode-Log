@@ -3,35 +3,36 @@ class Solution {
         String triangle = "";
         boolean isTriangle = false;
 
-        if((nums[0] + nums[2]) > nums[1] && (nums[0] + nums[1]) > nums[2] && (nums[1] + nums[2]) > nums[0]){
+        if ((nums[0] + nums[2]) > nums[1] && (nums[0] + nums[1]) > nums[2] && (nums[1] + nums[2]) > nums[0]) {
             isTriangle = true;
-            
-            if(nums[0] == nums[1]){
-                if(nums[0] == nums[2]){
+
+            if (nums[0] == nums[1]) {
+                if (nums[0] == nums[2]) {
                     triangle = "equilateral";
-                }else{
+                } else {
                     triangle = "isosceles";
                 }
-            }else if(nums[1] == nums[2]){
-                if(nums[0] == nums[2]){
+            } else if (nums[1] == nums[2]) {
+                if (nums[0] == nums[2]) {
                     triangle = "equilateral";
-                }else{
+                } else {
                     triangle = "isosceles";
                 }
-            }else if(nums[0] == nums[2]){
-                if(nums[0] == nums[1]){
+            } else if (nums[0] == nums[2]) {
+                if (nums[0] == nums[1]) {
                     triangle = "equilateral";
-                }else{
+                } else {
                     triangle = "isosceles";
                 }
-            }else{
+            } else {
                 triangle = "scalene";
-            }  
+            }
         }
 
-        if(isTriangle){
+        if (isTriangle) {
             return triangle;
         }
+
         return "none";
     }
 }
