@@ -3,13 +3,13 @@ class Solution {
         int product = 1;
 
         for(int i: nums){
-            product *= signFunction(i);
+            product *= signFunc(i);
         }
 
         return product;
     }
 
-    public int signFunction(int num){
+    public int signFunc(int num){
         if(num > 0){
             return 1;
         }else if(num < 0){
