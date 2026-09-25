@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/constance07/leetcode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/constance07/leetcode/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/constance07/leetcode/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/constance07/leetcode/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/constance07/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/constance07/leetcode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/constance07/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/constance07/leetcode/tree/master/1672-richest-customer-wealth) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/constance07/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
