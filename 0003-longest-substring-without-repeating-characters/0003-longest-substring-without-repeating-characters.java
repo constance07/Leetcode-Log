@@ -4,7 +4,6 @@ class Solution {
         int maxSubstring = 0;
         int counter = 0;
 
-        //<Dx
         for (int i = 0; i < s.length(); i++) {
             counter = 0;
             frequency.put(s.charAt(i), frequency.getOrDefault(s.charAt(i), 0) + 1);
