@@ -18,14 +18,13 @@ class Solution {
 
                 if (frequency.get(s.charAt(j)) == 2) {
                     frequency.clear();
-                    System.out.println(counter);
                     counter--;
                     if (counter > maxSubstring) {
                         maxSubstring = counter;
                     }
                     break;
-                }else if(counter > maxSubstring) {
-                    maxSubstring = counter; 
+                } else if (counter > maxSubstring) {
+                    maxSubstring = counter;
                 }
             }
         }
