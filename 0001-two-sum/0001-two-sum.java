@@ -7,7 +7,6 @@ class Solution {
                 if (nums[i] + nums[j] == target){
                     targetIndices[0] = i;
                     targetIndices[1] = j;
-                    Arrays.sort(targetIndices);
                     return targetIndices;
                 }
             }
