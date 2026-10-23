@@ -3,9 +3,9 @@ class Solution {
         Map<String, List<String>> anagrams = new HashMap<>();
 
         for(String word: strs){
-            char[] charWord = word.toCharArray();
-            Arrays.sort(charWord);
-            String key = new String(charWord);
+            char[] ch = word.toCharArray();
+            Arrays.sort(ch);
+            String key = new String(ch);
 
             List<String> anagramGroup = anagrams.getOrDefault(key, new ArrayList<>());
             anagramGroup.add(word);
