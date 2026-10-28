@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/constance07/leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/constance07/leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/constance07/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/constance07/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/constance07/leetcode/tree/master/0268-missing-number) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/constance07/leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/constance07/leetcode/tree/master/0125-valid-palindrome) |
 | [0977-squares-of-a-sorted-array](https://github.com/constance07/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/constance07/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
