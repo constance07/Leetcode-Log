@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/constance07/leetcode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/constance07/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/constance07/leetcode/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/constance07/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/constance07/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/constance07/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/constance07/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/constance07/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/constance07/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/constance07/leetcode/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/constance07/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/constance07/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/constance07/leetcode/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/constance07/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/constance07/leetcode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/constance07/leetcode/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/constance07/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/constance07/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/constance07/leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/constance07/leetcode/tree/master/3024-type-of-triangle) |
