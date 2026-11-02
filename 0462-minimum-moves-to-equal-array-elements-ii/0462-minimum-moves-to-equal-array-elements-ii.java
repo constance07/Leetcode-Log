@@ -11,9 +11,6 @@ class Solution {
                 moves += Math.abs((middle - nums[i]));
             }   
         }
-
-
-
         return moves;
     }
 }
