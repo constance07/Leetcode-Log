@@ -1,24 +1,17 @@
 class Solution {
     public boolean checkIfPangram(String sentence) {
-        
-        Character[] alphabet = {'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'};
-        HashMap<Character, Integer> letterFreq = new HashMap<>();
+        HashMap<Character, Integer> frequency = new HashMap<>();
 
-        for(char c: alphabet){
-            letterFreq.put(c, 0);
+        for(int i = 0; i < sentence.length(); i++){
+            char[] letters = sentence.toCharArray();
+            frequency.put(letters[i], 0);
         }
 
-        for(char c: sentence.toCharArray()){
-            letterFreq.replace(c, letterFreq.get(c) + 1);
+        if(frequency.size() == 26){
+            return true;
         }
 
-        for(char c: alphabet){
-            if(letterFreq.get(c) < 1){
-                return false;
-            }
-        }
-
-        return true;
+        return false;
 
     }
 }
