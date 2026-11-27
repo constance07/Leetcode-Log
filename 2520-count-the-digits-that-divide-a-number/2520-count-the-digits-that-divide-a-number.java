@@ -1,20 +1,17 @@
 class Solution {
     public int countDigits(int num) {
-        int digits = 0;
-        int val = num;
-
-        while(true){
-            if(val == 0){
-                break;
+        int sum = 0;
+        int value = num;
+        
+        //121
+        while(value > 0){
+            if(num % (value % 10) == 0){
+                sum++;
             }
 
-            if(num % (val % 10) == 0){
-                digits++;
-            }
-
-            val = val/10; 
+            value /= 10;
         }
 
-        return digits;
+        return sum;
     }
 }
